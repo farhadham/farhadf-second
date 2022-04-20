@@ -21,21 +21,21 @@ body {
 
 ::-webkit-scrollbar-thumb {
   cursor: pointer;
-  background: #1b73f2;
+  background: #B8102E;
 }
 
 ::selection {
-  background-color: #1b73f2;
+  background-color: #B8102E;
   color: #000;
 }
 
 -webkit-::selection {
-  background-color: #1b73f2;
+  background-color: #B8102E;
   color: #000;
 }
 
 ::-moz-selection {
-  background-color: #1b73f2;
+  background-color: #B8102E;
   color: #000;
 }
 
@@ -142,7 +142,7 @@ ul {
 }
 
 a {
-  color: #1b73f2;
+  color: #B8102E;
   -webkit-transition: color 0.3s ease-out;
   -o-transition: color 0.3s ease-out;
   transition: color 0.3s ease-out;
@@ -150,7 +150,7 @@ a {
 
 a:hover,
 a:focus {
-  color: #1b73f2;
+  color: #B8102E;
   outline: none;
 }
 
@@ -196,7 +196,7 @@ textarea.form-control {
 }
 
 .form-control:focus {
-  border-color: #1b73f2;
+  border-color: #B8102E;
   outline: 0;
   -webkit-box-shadow: none;
   box-shadow: none;
@@ -217,7 +217,7 @@ textarea.form-control {
 }
 
 label.error {
-  border-color: #1b73f2;
+  border-color: #B8102E;
   padding: 9px 0 0 22px;
   font-size: 0.9rem;
 }
@@ -232,7 +232,7 @@ label.error {
   font-family: "Karla", sans-serif;
   position: relative;
   display: inline-block;
-  border: 0.2em solid #1b73f2;
+  border: 0.2em solid #B8102E;
   border-radius: 0;
   padding: 1em 2.4em 1em;
   font-size: 0.875em;
@@ -242,7 +242,7 @@ label.error {
   letter-spacing: 0.15em;
   text-transform: uppercase;
   text-decoration: none;
-  background-color: #1b73f2;
+  background-color: #B8102E;
   font-weight: 700;
   border-width: 1px;
   -webkit-transition: all 0.3s ease-out !important;
@@ -320,8 +320,8 @@ ion-icon {
 }
 
 .icon-play:hover {
-  border: 1px solid #1b73f2;
-  background-color: #1b73f2;
+  border: 1px solid #B8102E;
+  background-color: #B8102E;
   color: #343434;
 }
 
@@ -358,7 +358,7 @@ ion-icon {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background-color: #1b73f2;
+  background-color: #B8102E;
   opacity: 0.6;
   position: absolute;
   top: 0;
@@ -438,7 +438,7 @@ ion-icon {
 }
 
 .text-primary {
-  color: #1b73f2 !important;
+  color: #B8102E !important;
 }
 
 .navbar {
@@ -571,7 +571,7 @@ ion-icon {
 }
 
 .social-icons ion-icon:hover {
-  color: #1b73f2;
+  color: #B8102E;
 }
 
 .navbar-bottom-white,
@@ -719,7 +719,7 @@ ion-icon {
 
 .navbar-mobile .language .active a,
 .navbar-mobile .language li a:hover {
-  color: #1b73f2;
+  color: #B8102E;
   text-decoration: none;
 }
 
@@ -736,7 +736,7 @@ ion-icon {
 
 .navbar-mobile .close:hover {
   opacity: 1;
-  color: #1b73f2;
+  color: #B8102E;
 }
 
 @media (min-width: 576px) {
@@ -769,7 +769,7 @@ ion-icon {
 .navbar-nav-mobile li .active,
 .navbar-nav-mobile li a:hover,
 .navbar-nav-mobile li a:focus {
-  color: #1b73f2;
+  color: #B8102E;
 }
 
 .menu-is-open {
@@ -856,7 +856,7 @@ ion-icon {
 h1 + .line {
   margin-top: 15vh;
   width: 25%;
-  border-top: 3px solid #1b73f2;
+  border-top: 3px solid #B8102E;
   transition: all 0.3s ease;
 }
 
@@ -950,7 +950,7 @@ h1 + .line {
   height: 0;
   content: "";
   transition: all 0.3s ease;
-  background-color: #1b73f2;
+  background-color: #B8102E;
 }
 
 .progress-nav li:before {
@@ -978,7 +978,7 @@ h1 + .line {
   font-size: 10rem;
   line-height: 1;
   font-family: "Karla", sans-serif;
-  color: #1b73f2;
+  color: #B8102E;
 }
 
 .experience-text {
@@ -1037,7 +1037,7 @@ h1 + .line {
 }
 
 .owl-dot.active span {
-  background-color: #1b73f2;
+  background-color: #B8102E;
 }
 
 .owl-nav {
@@ -1067,7 +1067,7 @@ h1 + .line {
 .owl-prev:hover,
 .owl-next:hover {
   opacity: 1 !important;
-  color: #1b73f2 !important;
+  color: #B8102E !important;
 }
 
 .photo-icon {
@@ -1123,7 +1123,7 @@ h1 + .line {
 
 .progress-bar:before {
   position: absolute;
-  background: #1b73f2;
+  background: #B8102E;
   content: "";
   width: 0;
   height: 100%;
@@ -1233,7 +1233,7 @@ h1 + .line {
 }
 
 .project-box:hover {
-  background: #1b73f2;
+  background: #B8102E;
   text-decoration: none;
   border-color: transparent;
 }
